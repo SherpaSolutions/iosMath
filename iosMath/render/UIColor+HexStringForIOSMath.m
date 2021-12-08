@@ -6,7 +6,7 @@
 //
 //
 
-#import "UIColor+HexString.h"
+#import "UIColor+HexStringForIOSMath.h"
 
 #if TARGET_OS_IPHONE
 
